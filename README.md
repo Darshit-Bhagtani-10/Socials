@@ -1,8 +1,5 @@
 # 📱 Socials - Influencer & Sponsor Collaboration Platform
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Django](https://img.shields.io/badge/Django-4.x-blue)
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
 > A full-featured web application connecting influencers and sponsors through personalized content collaboration, campaign management, and performance tracking.
 
