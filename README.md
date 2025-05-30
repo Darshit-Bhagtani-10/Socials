@@ -1,4 +1,4 @@
-# 📱 Socials - Influencer & Sponsor Collaboration Platform
+# 📱 Socialtuber - Influencer & Sponsor Collaboration Platform
 
 
 > A full-featured web application connecting influencers and sponsors through personalized content collaboration, campaign management, and performance tracking.
